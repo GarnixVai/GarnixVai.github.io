@@ -234,6 +234,7 @@ DEPENDENCIES
   jekyll-coffeescript
   jekyll-feed (~> 0.6)
   jekyll-gist
+  jekyll-theme-minimal
   tzinfo-data
 
 BUNDLED WITH
