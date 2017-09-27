@@ -24,8 +24,6 @@ github_username:  ya2015
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal 
-#minima
-
 plugins:
   - jekyll-feed
   - jekyll-gist
