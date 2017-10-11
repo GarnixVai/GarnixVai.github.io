@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD:_posts/test.markdown
 title:  "testsss"
+=======
+title:  "I'm a free man"
+>>>>>>> parent of 28eb6b3... test post update1:_posts/test.markdown
 date:   2017-09-27 14:40:01 +0100
 categories: jekyll update
 tags: test jekyll
