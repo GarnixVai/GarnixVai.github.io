@@ -23,7 +23,7 @@ github_username:  ya2015
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 #minima
 
 plugins:
