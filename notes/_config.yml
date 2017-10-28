@@ -80,4 +80,5 @@ deploy:
   type: git
   repo: https://github.com/GarnixVai/GarnixVai.github.io.git
   branch: notes
+  extend_dirs: /notes/
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
