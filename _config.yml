@@ -78,6 +78,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/GarnixVai/GarnixVai.github.io-notes.git 
-  branch: master
+  repo: https://github.com/GarnixVai/GarnixVai.github.io.git
+  branch: gh-pages
 
