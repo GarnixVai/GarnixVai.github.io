@@ -2183,17 +2183,38 @@
 
 			#main > section.one {
 				background-color: rgba(145, 137, 129, 0.1);
-				background-image: url("../../images/paino.jpg");
+				background-image: url("../../images/paino.png");
 				opacity: 0.7;
-				color: rgb(240, 237, 252);
-				text-shadow: -2px 0 black;
+				text-shadow: -1px 0 black, -1px 0 black, -1px 0 black ,-1px 0 black;
+				color: #4c4a37; 
+				font-family: 'Source Sans Pro', sans-serif; 
+				font-size: 18px; 
+				line-height: 32px; 
+				margin: 0 0 24px;
 			}
-			h1.top {
-				font-family: sans-serif;
-				font-size: 30px;
-				color: #fff;
-				border: rgb(230, 125, 27);
+			#main > section.one a {
+				text-shadow: -1px 0 black, -1px 0 black, -1px 0 black ,-1px 0 black;
+			 
+
+				color: #4c4a37; 
+				font-family: 'Source Sans Pro', sans-serif; 
+				font-size: 18px; 
+				line-height: 32px; 
+				margin: 0 0 24px;
+				
+			}
+			
+			div.top {
+				color: #7c795d; 
+				font-family: 'Trocchi', serif; 
+				font-size: 30px; 
+				font-weight: normal; 
+				line-height: 48px; 
+				border: #fff(230, 125, 27);
 				text-shadow: -1px 0 black;
+				position:relative;
+				margin-top:5%;
+				
 				
 			}
 			#main > section.two {
